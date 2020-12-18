@@ -11,3 +11,11 @@ Host dataset for the following demo projects:
 pipenv install
 pipenv install --dev
 ```
+
+## Contributions
+
+Please ready the following rule before you commit.
+
+- All dataset must be compress to `.zip` format.
+- All dataset must show their format in their names.
+- All dataset must be smaller than `100MB` (GitHub file size limits).
